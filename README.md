@@ -1,4 +1,4 @@
-#**AI Pose Master Suite for Autodesk Maya**
+#AI Pose Master Suite for Autodesk Maya
 Automate 3D character posing in Autodesk Maya directly from 2D reference images.
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_iea7t8iea7t8iea7" src="https://github.com/user-attachments/assets/c211c352-8364-4543-82b6-f8abc4acba7f" />
