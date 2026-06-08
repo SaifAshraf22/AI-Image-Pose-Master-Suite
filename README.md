@@ -1,5 +1,7 @@
-AI Pose Master Suite for Autodesk Maya
+**AI Pose Master Suite for Autodesk Maya**
 Automate 3D character posing in Autodesk Maya directly from 2D reference images.
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_iea7t8iea7t8iea7" src="https://github.com/user-attachments/assets/c211c352-8364-4543-82b6-f8abc4acba7f" />
 
 AI Pose Master Suite is an innovative pipeline tool designed for Autodesk Maya Technical Directors (TDs) and Animators. It bridges the gap between 2D conceptual reference and 3D production by leveraging cutting-edge AI pose estimation to instantly generate accurate 3D poses within Maya.
 
